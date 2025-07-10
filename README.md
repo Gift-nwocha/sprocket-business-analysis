@@ -30,7 +30,7 @@ This project explores Sprocket’s internal sales and marketing data to support 
 
 ##  Dashboard Highlights
 
-![Dashboard Screenshot](dashboard1.png)
+![Dashboard Screenshot](Screenshotpng2.png)
 ![Dashboard Screenshot](dashboard2.png)
 ![Dashboard Screenshot](dashboard3.png)
 
