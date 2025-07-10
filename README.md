@@ -28,17 +28,17 @@ This project explores Sprocket’s internal sales and marketing data to support 
 
 ---
 
-##  Dashboard Highlights
+## Dashboard Highlights
 
 ![Dashboard Screenshot](Screenshotpng2.png)
 ![Dashboard Screenshot](Screenshot2.png)
-![Dashboard Screenshot](dashboard3.png)
+![Dashboard Screenshot](Screenshot4.png)
 
 *Visuals built in Power BI; data prepared and analyzed in Excel.*
 
 ---
 
-## 👩🏽‍💻 About Me
+## About Me
 
 **Rejoice Nwocha** — Data Analyst & Insight Huntress
 [LinkedIn](https://linkedin.com/in/rejoice-nwocha) • [GitHub](https://github.com/Gift-nwocha)
