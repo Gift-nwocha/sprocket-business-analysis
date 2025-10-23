@@ -1,4 +1,4 @@
-# 🚀 Sprocket Business Analysis & Dashboard
+#  Sprocket Business Analysis & Dashboard
 
 **Project Type:** Customer Segmentation · Business Intelligence · Strategic Analytics
 **Tools Used:** Excel · Power BI
@@ -29,10 +29,9 @@ This project explores Sprocket’s internal sales and marketing data to support 
 ---
 
 ## Dashboard Highlights
-
+![Dashboard Screenshot](Screenshot%204.png)
 ![Dashboard Screenshot](Dashboard%20Screenshot.png)
 ![Dashboard Screenshot](Screenshot%202.png)
-![Dashboard Screenshot](Screenshot%204.png)
 
 *Visuals built in Power BI; data prepared and analyzed in Excel.*
 
